@@ -9,3 +9,12 @@ Tech Stack:
 This project was built in fulfilment of the requirements of our Senior Graduation Project, and won 2nd place in the Senior Project Competition hosted by our college :trophy: :tada:🥳
 
 
+Here's the examiner's POV after opening the app:
+
+<img src ="https://github.com/super-fz/LabGuard/assets/122122054/65918fdb-0aef-4630-bd89-c02e12681762">
+
+
+And here's the students' POV:
+
+<img src ="https://github.com/super-fz/LabGuard/assets/122122054/b7773cc5-205b-42cd-a863-d401ebc38519">
+
